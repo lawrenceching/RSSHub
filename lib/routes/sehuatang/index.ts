@@ -44,6 +44,7 @@ export const route: Route = {
     maintainers: ['qiwihui', 'junfengP', 'nczitzk'],
     features: {
         requirePuppeteer: true,
+        nsfw: true,
     },
     handler,
     description: `**原创 BT 电影**
